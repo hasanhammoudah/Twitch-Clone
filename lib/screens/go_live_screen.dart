@@ -17,7 +17,6 @@ class GoLiveScreen extends StatefulWidget {
 
 class _GoLiveScreenState extends State<GoLiveScreen> {
   final TextEditingController _titleController = TextEditingController();
-  //TODO read about more Global variable
   Uint8List? image;
 
   @override
